@@ -325,14 +325,235 @@
 5   - Forest DDPAT
 175 - Scorched
 77  - Boreal Forest
+175 - Scorched
+72  - Safari Mesh
 
 
+===========================
+      *Navaja Knife*
+===========================
+418 - Phase 1 Doppler
+419 - Phase 2 Doppler
+420 - Phase 3 Doppler
+421 - Phase 4 Doppler
+415 - Ruby Doppler
+416 - Sapphire Doppler
+417 - Black Pearl Doppler
+413 - Marble Fade
+409 - Tiger Tooth
+98  - Ultraviolet
+414 - Rust Coat
+857 - Damascus Steel
+38  - Fade
+59  - Slaughter
+735 - Night Stripe
+44  - Case Hardened
+12  - Crimson Web
+43  - Stained
+42  - Blue Steel
+175 - Scorched
+143 - Urban Masked
+77  - Boreal Forest
+72  - Safari Mesh
+5   - Forest DDPAT
 
 
+===========================
+       *Nomad Knife*
+===========================
+12  - Crimson Web
+38  - Fade
+44  - Case Hardened
+59  - Slaughter
+42  - Blue Steel
+143 - Urban Masked
+43  - Stained
+5   - Forest DDPAT
+77  - Boreal Forest
+735 - Night Stripe
+175 - Scorched
+72  - Safari Mesh
 
 
+===========================
+     *Shadow Daggers*
+===========================
+418 - Phase 1 Doppler
+419 - Phase 2 Doppler
+420 - Phase 3 Doppler
+421 - Phase 4 Doppler
+415 - Ruby Doppler
+416 - Sapphire Doppler
+417 - Black Pearl Doppler
+409 - Tiger Tooth
+413 - Marble Fade
+98  - Ultraviolet
+411 - Damascus Steel
+414 - Rust Coat
+38  - Fade
+44  - Case Hardened
+59  - Slaughter
+12  - Crimson Web
+43  - Stained
+42  - Blue Steel
+77  - Boreal Forest
+143 - Urban Masked
+175 - Scorched
+40  - Night
+5   - Forest DDPAT
+72  - Safari Mesh
 
 
+===========================
+     *Paracord Knife*
+===========================
+38  - Fade
+59  - Slaughter
+12  - Crimson Web
+44  - Case Hardened
+77  - Boreal Forest
+43  - Stained
+735 - Night Stripe
+143 - Urban Masked
+175 - Scorched
+5   - Forest DDPAT
+72  - Safari Mesh
+
+
+===========================
+     *Stiletto Knife*
+===========================
+413 - Marble Fade
+418 - Phase 1 Doppler
+419 - Phase 2 Doppler
+420 - Phase 3 Doppler
+421 - Phase 4 Doppler
+415 - Ruby Doppler
+416 - Sapphire Doppler
+417 - Black Pearl Doppler
+409 - Tiger Tooth
+857 - Damascus Steel
+98  - Ultraviolet
+414 - Rust Coat
+38  - Fade
+59  - Slaughter
+12  - Crimson Web
+44  - Case Hardened
+42  - Blue Steel
+43  - Stained
+735 - Night Stripe
+5   - Forest DDPAT
+175 - Scorched
+72  - Safari Mesh
+77  - Boreal Forest
+
+
+===========================
+     *Survival Knife*
+===========================
+38  - Fade
+59  - Slaughter
+12  - Crimson Web
+735 - Night Stripe
+42  - Blue Steel
+77  - Boreal Forest
+44  - Case Hardened
+43  - Stained
+5   - Forest DDPAT
+72  - Safari Mesh
+175 - Scorched
+143 - Urban Masked
+
+
+===========================
+       *Talon Knife*
+===========================
+413 - Marble Fade
+418 - Phase 1 Doppler
+419 - Phase 2 Doppler
+420 - Phase 3 Doppler
+421 - Phase 4 Doppler
+415 - Ruby Doppler
+416 - Sapphire Doppler
+417 - Black Pearl Doppler
+409 - Tiger Tooth
+858 - Damascus Steel
+98  - Ultraviolet
+414 - Rust Coat
+38  - Fade
+59  - Slaughter
+44  - Case Hardened
+12  - Crimson Web
+143 - Urban Masked
+42  - Blue Steel
+735 - Night Stripe
+43  - Stained
+72  - Safari Mesh
+77  - Boreal Forest
+175 - Scorched
+5   - Forest DDPAT
+
+
+===========================
+       *Ursus Knife*
+===========================
+413 - Marble Fade
+418 - Phase 1 Doppler
+419 - Phase 2 Doppler
+420 - Phase 3 Doppler
+421 - Phase 4 Doppler
+415 - Ruby Doppler
+416 - Sapphire Doppler
+417 - Black Pearl Doppler
+409 - Tiger Tooth
+858 - Damascus Steel
+98  - Ultraviolet
+414 - Rust Coat
+38  - Fade
+59  - Slaughter
+44  - Case Hardened
+12  - Crimson Web
+143 - Urban Masked
+42  - Blue Steel
+735 - Night Stripe
+43  - Stained
+72  - Safari Mesh
+77  - Boreal Forest
+175 - Scorched
+5   - Forest DDPAT
+
+
+===========================
+       *CZ75-Auto*
+===========================
+270 - Victoria
+643 - Xiangliu
+476 - Yellow Jacket
+269 - The Fuschia Is Now
+709 - Eco
+687 - Tacticat
+543 - Red Astor
+435 - Pole Position
+350 - Tigris
+268 - Tread Plate
+325 - Chalice
+975 - Vendetta
+944 - Distressed
+622 - Polymer
+602 - Imprint
+218 - Hexane
+334 - Twist
+315 - Poison Dart
+12  - Crimson Web
+859 - Emerald Quartz
+453 - Emerald
+322 - Nitro
+297 - Tuxedo
+32  - Silver
+147 - Jungle Dashed
+333 - Indigo
+298 - Army Sheen
+366 - Green Plaid
 
 
 
