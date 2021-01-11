@@ -556,6 +556,147 @@
 366 - Green Plaid
 
 
+===========================
+      *Desert Eagle*
+===========================
+962 - Printstream
+711 - Code Red
+185 - Golden Koi
+805 - Mecha Industries
+527 - Kumicho Dragon
+351 - Conspiracy
+231  - Cobalt Disruption
+61   - Hypnotic
+841  - Light Rail
+603  - Directive
+397  - Naga
+232  - Crimson Web
+273  - Heirloom
+757  - Emerald Jörmungandr
+470  - Sunset Storm 弐
+469  - Sunset Storm 壱
+328  - Hand Cannon
+347  - Pilot
+37   - Blaze
+945  - Blue Ply
+645  - Oxide Blaze
+509  - Corinthian
+425  - Bronze Deco
+1006 - Night Heist
+296  - Meteorite
+237  - Urban Rubble
+992  - The Bronze
+40   - Night
+468  - Midnight Storm
+17   - Urban DDPAT
+90   - Mudder
+
+
+===========================
+      *Dual Berettas*
+===========================
+658  - Cobra Strike
+747  - Twin Turbo
+978  - Dezastre
+625  - Royal Consorts
+396  - Urban Shock
+261  - Marina
+220  - Hemoglobin
+447  - Duelist
+249  - Cobalt Quartz
+153  - Demolition
+895  - Balance
+903  - Elite 1.6
+710  - Shred
+544  - Ventilators
+528  - Cartel
+491  - Dualing Dragons
+307  - Retribution
+276  - Panther
+190  - Black Limba
+453  - Emerald
+28   - Anodized Navy
+998  - Switch Board
+860  - Pyre
+43   - Stained
+1005 - Heist
+450  - Moon in Libra
+330  - Briar
+46   - Contractor
+47   - Colony
+
+ 
+===========================
+       *Five-SeveN*
+===========================
+837  - Angry Mob
+660  - Hyper Beast
+979  - Fairy Tale
+427  - Monkey Business
+352  - Fowl Play
+906  - Buddy
+530  - Triumvirate
+510  - Retrobution
+274  - Copper Galaxy
+44   - Case Hardened
+1002 - Berries And Cherries
+464  - Neon Kimono
+693  - Flame Test
+646  - Capillary
+605  - Scumbria
+585  - Violent Daimyo
+387  - Urban Hazard
+223  - Nightshade
+265  - Kami
+729  - Crimson Blossom
+254  - Nitro
+252  - Silver Quartz
+377  - Hot Shot
+141  - Orange Peel
+3    - Candy Apple
+784  - Coolant
+78   - Forest Night
+46   - Contractor
+210  - Anodized Gunmetal
+151  - Jungle
+
+
+===========================
+        *Glock-18*
+===========================
+988  - Neo-Noir
+957  - Bullet Queen
+586  - Wasteland Rebel
+963  - Vogue
+353  - Water Elemental
+437  - Twilight Galaxy
+694  - Moonrise
+607  - Weasel
+532  - Royal Legion
+381  - Grinder
+230  - Steel Disruption
+48   - Dragon Tattoo
+1016 - Franklin
+732  - Synth Leaf
+789  - Nuclear Garden
+38   - Fade
+159  - Brass
+918  - Sacrifice
+808  - Oxide Blaze
+713  - Warhawk
+680  - Off World
+623  - Ironwork
+495  - Wraiths
+479  - Bunsen Burner
+399  - Catacombs
+278  - Blue Fissure
+367  - Reactor
+3    - Candy Apple
+799  - High Beam
+40   - Night
+293  - Death Rattle
+2    - Groundwater
+208  - Sand Dune
 
 
 
