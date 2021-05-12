@@ -777,12 +777,65 @@
 27   - Bone Mask
 
 
+===========================
+       *R8 Revolver*
+===========================
+522  - Fade
+843  - Skull Crusher
+683  - Llama Cannon
+523  - Amber Fade
+595  - Reboot
+1047 - Junk Yard
+952  - Bone Forged
+892  - Memento
+721  - Survivalist
+701  - Grip
+12   - Crimson Web
+1011 - Phoenix Marker
+798  - Nitro
+40   - Night
+866  - Canal Spray
+27   - Bone Mask
 
 
-
-
-
-
+===========================
+         *Tec-9*
+===========================
+889  -  Decimator
+614  - Fuel Injector
+791  - Remote Control
+964  - Brother
+839  - Bamboozle
+555  - Re-Entry
+520  - Avalanche
+272  - Titanium Bit
+248  - Red Quartz
+179  - Nuclear Threat
+905  - Flash Out
+816  - Fubar
+722  - Snek-9
+684  - Cracked Opal
+671  - Cut Out
+599  - Ice Cap
+539  - Jambiya
+303  - Isaac
+289  - Sandstorm
+216  - Blue Titanium
+1024 - Blast From the Past
+463  - Terrace
+374  - Toxic
+159  - Brass
+36   - Ossified
+733  - Rust Leaf
+738  - Orange Murano
+439  - Hades
+235  - VariCamo
+1010 - Phoenix Chalk
+459  - Bamboo Forest
+17   - Urban DDPAT
+2    - Groundwater
+242  - Army Mesh
+206  - Tornado
 
 
 
